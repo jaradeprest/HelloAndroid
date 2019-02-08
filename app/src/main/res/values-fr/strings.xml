@@ -3,4 +3,5 @@
     <string name="app_name">Hello World</string>
     <string name="txt_tv_title">Bonjour Monde</string>
     <string name="txt_btn_counter">Augmente</string>
+    <string name="txt_btn_decrease">Diminuer</string>
 </resources>
